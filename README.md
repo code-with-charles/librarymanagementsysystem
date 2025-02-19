@@ -19,21 +19,15 @@ File Operations: OS & Shutil – for managing reports and backups.
 How to Use
 1️⃣ Clone the Repository
 
-sh
-Copy
-Edit
+
 git clone https://github.com/code-with-charles/library-management-system.git  
 cd library-management-system  
 2️⃣ Install Dependencies
 
-sh
-Copy
-Edit
+
 pip install -r requirements.txt  
 3️⃣ Run the Application
 
-sh
-Copy
-Edit
+
 python library_management.py  
 This Library Management System simplifies book tracking, reduces manual errors, and enhances accessibility, making library operations more efficient and organized! 📚🚀
